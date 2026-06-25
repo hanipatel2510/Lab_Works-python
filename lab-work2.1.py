@@ -45,4 +45,4 @@ number1=input("Enter any value:")
 if number1.isdigit() and  int(number1) > 0:
     print(number1,"natural number:")
 else:
-    print("is not neutral number:")
+    print("is not netural number:")
